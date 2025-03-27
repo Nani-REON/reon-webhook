@@ -1,6 +1,7 @@
 {
   "name": "reon-webhook",
   "version": "1.0.0",
+  "description": "REON contact form backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
